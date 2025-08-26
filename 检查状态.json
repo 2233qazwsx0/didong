@@ -9,7 +9,7 @@
     ],
     "StatusData": {
         "EzHub": "一切正常",
-        "EzAPI": "一切正常",
+        "EzAPI": "离线",
         "EzLauncher": "一切正常"
     },
     "LatestVersion": "https://raw.githubusercontent.com/debug420/Ez-Hub/master/EzHub.lua",
