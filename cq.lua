@@ -428,7 +428,7 @@ EzLauncher.NewsSection.ContentFrame.ScrollBarImageColor3 = Color3.fromRGB(112, 1
 EzLauncher.EzLauncher.Enabled = false;
 
 local launcherData = game:GetService("HttpService"):JSONDecode(
-	(game:HttpGet("https://gitee.com/fanxingcua/jiaobenqidongqi/raw/master/qidongapi/%E6%A3%80%E6%9F%A5%E7%8A%B6%E6%80%81.json")));
+	(game:HttpGet("https://raw.githubusercontent.com/2233qazwsx0/didong/refs/heads/main/%E6%A3%80%E6%9F%A5%E7%8A%B6%E6%80%81.json")));
 
 EzLauncher.EzLauncher.Enabled = true;
 
